@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)]
+![logo](https://github.com/Utkarsh-gupta-au51/Utkarsh-gupta-au51/blob/main/banner.gif)
 <h1 align="center">Hi 👋, I'm Utkarsh Gupta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8zw6n-caal3W1iWWO_Wl0bdHkCNe_O3cSHDE3gwWfig&usqp=CAU&ec=48665701">
