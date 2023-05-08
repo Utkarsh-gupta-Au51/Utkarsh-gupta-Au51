@@ -1,4 +1,4 @@
-![logo](https://github.com/Utkarsh-gupta-au51/Utkarsh-gupta-au51/blob/main/banner.gif)
+![logo](https://github.com/Utkarsh-gupta-Au51/Utkarsh-gupta-Au51/blob/main/coding.gif)
 <h1 align="center">Hi 👋, I'm Utkarsh Gupta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8zw6n-caal3W1iWWO_Wl0bdHkCNe_O3cSHDE3gwWfig&usqp=CAU&ec=48665701">
